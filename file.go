@@ -1,4 +1,4 @@
-package test
+package gtp
 
 import (
     "os/exec"
