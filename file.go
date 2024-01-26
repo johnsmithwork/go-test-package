@@ -1,4 +1,4 @@
-package go
+package test
 
 import (
     "os/exec"
