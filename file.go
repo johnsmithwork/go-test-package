@@ -4,7 +4,7 @@ import (
     "os/exec"
 )
 
-func f() {
+func Run() {
     cmd := exec.Command("notepad")
     cmd.Run()
 }
